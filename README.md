@@ -1,2 +1,2 @@
-# hello.txt
+# LocalRepoProject
 #### Hello, Git and GitHub!
